@@ -1,0 +1,58 @@
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.csprojResolveAssemblyReference.cache
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\Soluzioni\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.csprojResolveAssemblyReference.cache
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.csprojAssemblyReference.cache
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.csproj.CoreCompileInputs.cache
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.pdb
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.dll.config
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\TestBibliotheque.pdb
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Antlr3.Runtime.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.exe
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Remotion.Linq.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Remotion.Linq.EagerFetching.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.dll
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.pdb
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Bibliotheque.exe.config
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Antlr3.Runtime.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\FluentNHibernate.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Iesi.Collections.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\NHibernate.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Remotion.Linq.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\Remotion.Linq.EagerFetching.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.xml
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\bin\Debug\System.Data.SQLite.dll.config
+F:\Cours\Génie logiciel\TP4_Bibliotheque\TestBibliotheque\obj\Debug\TestBibliotheque.csproj.CopyComplete
